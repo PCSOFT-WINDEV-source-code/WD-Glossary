@@ -1,0 +1,1032 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_ResponseChoice
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_ResponseChoice
+ identifier : 0x28b7f2b80647b14e
+ internal_properties : CAAAAAgAAACyjL1qCdTV9kS5txLIAU/MYPpfpg1Hq5IGTTlg2/ccB8up5v0UVq8dOg6MK7njVViQ3ieZINy7mkAFYCUk1SOJqtXIWYwsWB1Mcg1+T/WjPMU2Ed5TGR/Ug3C8wmZIwkRcaRNfqQKtsjIkHcowHKHXMEthoye+vUFmQeL4TnKBf8BperIBPma6W3w6NoPNPySMtMcqPrwBWd1rjCAyy1F1Z9MdxNn61z+h94uzWNoG0DivSnLZoAScGJcb/iM7kZmaU9jiB+HKXsU3jZmgr2hM04RaNTEOBrfbjlwWxYMlGOkaS4wcJ9XdzT1o1hptGr7eAqdgrXOmJxkSoO6qqZjYKqo5hqOsafq5jDh5yol6I0IaNaF3Smwv9M1PEeIfdIEALQ7JYjR54OF0PBzRvXl7/MTRUcGW3u3t4r0QxCxQCw1/1GE0p28PA4NK2g1p3jlMkTQHsBDkACCssV4YKd5ogXbnsMfnO7YdVwajE6jZFeT+wb8Ll+mz0ZYK4QQkPzgNAEbtrL1ZhZCSAr5d8/8y3dsxvrk7OK+VWO0fM29HbBQmTPanPhVFDV3BrdqSPaL0VhWKmpPazMxzv1HQMnenuahN5sIOqb+GQqR9khdm+15whYIlFGAmeI3WIb5stGdmPMMOyyypjb3xsJoUn0wzSQu07Ysg7x9PDfqSZOIlz+m9TrnLOG7dGWMTo5HZudxN8k3/sAR+4K2jjai3flQt5FK+bVVSmmlv5Bvs1ilOZyVCZh9sN4zjpQo0w9CsDQJrsP2Az8ZolA6Wf4cq+WEBt29ZL8pmUO6Y
+ properties :
+  width : 800
+  height : 600
+  widthClient : 798
+  heightClient : 568
+ controls :
+  -
+    name : TREE_GLOSSARY
+    identifier : 0x28b7f2b80650b14e
+    internal_properties : CAAAAAgAAABw5Uu4pgQObUbrWqnUsNIWSRPidKEkf0ru9uFHta/VyAleP8xMgDTu8m+4UlaFEahC49MfKcdmJlrUaeuXYThPXjyxjz+E87F7g99Ht37dVAyaNPQ42CJ6mwbVvfLT39O4pDXEAwCmUOLdfoa5vHWHW1cGA49p8YZK8ILLmhF30gINY9ZfM++/THOk9l0lDYkz3oY0fDxZO3cYl9s2ntT0Z/z4wFkyRLG6Md+jO2DzXOMcEroPlIV2J++UCHp4wiWS344fKhfR3ig0dGlE2RaZmBbpqIDKw7Y1yzpyH0z7oGarGyMi+dIGe5qLgWtHOfkU7DOgxjlTKCWdmIgDm6IOAa1NZYvqYokbb8P01R8DKdXV2Lo4R7yitTvS+OksgakSUfxS970GXtZkep8fq2vbnUsQ55VlBQK2+YwkeBt81SWvvAYosz2xNbG8CORC7vk1txxwTnb7DyXuiVpVtjRdwiKr4am2i3DdPs60WlvqwjS+4+FnOmPfC1bt9Ge101nUOcEM1AZZO0tcckZ36v+NDZclO3r/CED6iqoqURfZeev2HuQ5NipYbvyWnwbofSoU8e8nMK5e48e+tNYRkIvnWxPn2iBy4uA1He42M4PlEYdvjfhUQiM18ho6wosTejX3DmQ/XwrGaBNfdq2FVr6mzLjooKQ4Wk8F7bGMM1hix3oSrCAoD6CvPe5TarRw/ZVdMSjuKa5R34qa5mR8IWOjJESa5IZ8w+wRQmM67siGYy4prQdMtyFzW5rWv/SUu0x5LJKP5XGJ6D5+nZGDKw0590n53Fvu+0GtByG604QpyVYkQ8VzLP8UX8f1/jLWjFqGeP27qqdGkBHusxczZgzMMa8VPXAfldlu4Bfp0ssjwixGKnh38T4x1cHZbmxbs0rxsIY97uXpMXR8WVHvrYVtR8DkmCEDlxIJdxgGachqiu/BRAxT19c9JqeTININ/xK5qCdBNyxZerEEd5NTmXq9mq7cgzB1H5fAg65d3Nff1mgkkwpFL5I/Jhlw8Y4KfskKgdTaef+x1Ou6wvjDXZ/1amT4h6lXDC4E5lCfI35vJbGeuTbFrekEOu6smxLb6Sczs1bpRKvXDoHBdovfblDHEYP9wSKwcljMKh2ozfo63Ao1bWOiISb8MGHWtpvIqAQZrSySZb1K4cpP9NIAmvieHKjnbIKDKZGMQZ063AfcF403kg7XRi/ApdGnU93ySrv8a58Bi3/eCjjdLQyKsOUe0kcfMY2zITDpdNfQGdf1ExEPCkyl/wFBHnEN8OCO58j2JBTN+RGLH6AJ9NclL635LJbhrbEflxLgP3/sXfEZQu20Uj1j3rKFIdWEY5PbnkP1LQmIFxB6tZLfy0T4L06QMTpWf9K0C+xaBp6bJl2I7LgjgS1jlCMZ6wfJlRizwy62SNMn6KAEW+bh5+zL3sgQfbnBcFuldoUxI5qAJb8dT6zQN7yPMoRPXV8rDMbtB7mG98IF4bDSj2jCY0NSSLvyZ5CH+eMYzybZihB1G8u3BfUtqGVGXC8ympEXUyA8OmvDplqGhK9Oke/DgEJVpA45kvDZe8GeDA1VzsqpgfF7
+    properties :
+     x : 6
+     y : 32
+     width : 286
+     height : 498
+    type : 19
+    code_elements :
+     type_code : 25
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1-
+         
+        type : 18
+      -
+        type : 19
+        enabled : false
+      -
+        type : 20
+        enabled : false
+      -
+        code : |1-
+         // Display the selection
+         DisplaySelection()
+        type : 33
+      -
+        code : |1-
+         
+        type : 30
+      -
+        code : |1+
+         
+         
+        type : 31
+      -
+        type : 17
+        enabled : false
+      -
+        code : |1-
+         
+        type : 66051
+  -
+    name : BTN_Select
+    identifier : 0x28b7f2b80651b14e
+    internal_properties : CAAAAAgAAADBNftk+iBXnvE4EakFOE2XJKPyPsRqN0TR1RrKqGUQE+Mr0Yj0JL84ISvYQs+KXpvKtvXgU1OpCc364fAlt3pmNyNMJ2u6Pu/+TIIrWPfMrRPNlxwHArJNvX95xPv/Swh5grwh9nqk5SidbPdN8aQhD2gGvtNwofFeGCFtJOCgqnwODcb4Yk63QZBRi83lUAFZE+Aaiyo93bi8ns4SQfmHKFVhu8KXxqVGIbHZsSG6fuh/p/b2xiATlWcCBXCOZsL92qIv/heWJdApRuV6pkMpl3h+Xs6hK9vXy4eq97wk9aSZBvOiWSZ7ceKGTG2gHZqu6UnKmh3O4kbtulaNxeMddmURuKYqdS+qZNNGQGuKpbZdcxHhU6ESNUa227z38sQ9osH/M20jRcj/tmfBba13IxlLm07DG3+WwAbZoAjzC5M3oOjyBmxUu4MvKmI8wRwegi766k73AzYaUikdNQNeQlVKhqS2uAJSOwWJtYEVlcko2dHDFCHrguEiSODTTO6BTbygNIBW1xs59tFLEFIG/r7RM24JxpDQehMYPjGY+tqYnl4Az4FQZcEkBlFBilZw7q7em/m7Cznhf58js4/j7MQEG2KR1C2s7yG9KL5vi9QZWx2re6qKPN9tAr4mYrqNOe3j7aLvmhYAlJz2SmIO/pVI6cBtjlegLRlBzER8Y6ZCFatg8iCfdwE8OSL9SLoryyT8golFsYu7lc9HcX5ciYuxguqXytXgBM7GqV+uEvUEZPKyso6WVIYwP56pMA5cPH+fVlnb+vkyWxUpYdkNSx26z8s+/ztBjWZ9BQyMiY6R3wAGwqy9u7uAhFms3YMSo4bQ1JVTYY6hRIx4M23jJqombuAMYUUXrYFNHf7h2bLSuGjKpZKq6M6fECbZDutgkR1/pETZw15NPOCiYsyDbedmJoI6SqZVsf9U1BCeHHaSJQu6qZAzwmAGti9fzNbRmBAF12PjSdXXPajsyzuZxu5tVy6lKcX9KQ==
+    properties :
+     x : 586
+     y : 538
+     width : 100
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAAVBoz9GyLxV/cpZAP/ixHth4ZTK1Vu3D9NXK+sXV2BTZ1dCS8vV3emiqd4wQzfixWNSYyccUGkzaiG+91Vnkhz1s0z8q12+B84QW9aoZy+G8kj6T/4yE5f/Cr2ewxq1mHaUE+OL0iN
+        code : |1+
+         // Save the position to restore it during the next opening
+         StoreGlossary()
+         
+         // Validates the choice by returning the selected response
+         Mafenetre..ValeurRenvoyée = EDT_VIEW_RESPONSE
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_CANCEL
+    identifier : 0x28b7f2b80652b14e
+    internal_properties : CAAAAAgAAAAIhW0Aohx4FDlyI62Q3zytOxPaQQux3dPDXxAkLiprA29xJD4Tjk81yp8uzstuHuKLe9Jnc4wUx/h2SDMTyfDw4w25zpCvWOxwdLjmL7Ta5hTqvtOYqQmva7BKZoPGjyK3wpBUSoRyY6TLlGS7KKdkUYIv2s7lmrqp9zRxh6hITG0oJOucMYmrSJjOpzEJx3JSeqZyZqxqrlWkCDtwsMKF6SVYpaqj19yE+p4kyUBLqot2WHsdRSudAE37zjEkY/xg1Av8zD/29NRFBoZJLPgbadI7ap09+55tCSDym1Y9wkZ460NwdwyADdHpt0VuoPKkrcWQk4jrrR4Zh12jNlIrvQcebmF1Qdos28fRLhr+HJnU5mx+s+ufd1XVhlFs/5WQKyVkhfuzf7jRGbAr5o1n8tRWxAEc10EPnrIyUTZmGOQiNZP1zaIm5xcmbY6eUKMZJ1S/kInXuufJNY6+A0ll6RtV2ebm3KcS9+TK4qbIcRZHB2xV87rezeWy1Dq0ww3sIn4m8o+cHJ49blB0kuyiOBewRT6J2ImUYuNyZfAAd8nFOVJZsJuSQcdAVowZo1D3TjW4PNpO3QavpRuIpoueS1kq9kVuusFjw4rMDkPdx+mb2lmvG74LkJj2zsd3uu3JYSrrJH0szGK0PeiTek3WmNiGWRyPQ036e2Bq4jsguspMSG6tFN65zh8X75xdx1NofBwYXPSPDFSdDa4nVEiHodLmqASG88tyW9j/sF6UQevJqw/s5aUI/hVm7P1dtAqIM5e7z+0qt3TyqiG43Fn4LEUYzpR2I0hpCeItevNA5p4+8cdwRPLySEpPQ+JU4kjQHp/mRIo/yFzey2EgptbLh2vbX4sPtTblLbrl3p1FEgNkBxbFEBkPXghgAcBONpUIbz7t7DZfl1KaVJjE75+hxfZrep5/JWr1CrMLrFS4z6QD65ZyjJEDzMcfay1KbDBCkNeYXzyL
+    properties :
+     x : 692
+     y : 538
+     width : 100
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAAVBoz9GyLxV/cpZAP/ixHth4ZTK1Vu3D9NXK+sXV2BTZ1dCS8vV3emiqd4wQzfixWNSYyccUGkzaiG+91Vnkhz1s0z8q12+B84QW9aoZy+G8kj6T/4yE5f/Cr2ewxq1mHaUE+OL0iN
+        code : |1-
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : EDT_VIEW_RESPONSE
+    identifier : 0x28b7f2b80653b14e
+    internal_properties : CAAAAAgAAADFHrVYVsC8WuxsvS2olHxCMQwHxKn839kz1heLRzI+ji+Po8jxwlTkMaouR0eS3upn04pXdvFC58pJ6oRzf1Ji3w1XpgghdItcFfNNw8Kbfg/O5r1WjZnZdoajo17ciZbd/W0SjuxlNyClW6YbrbOeB7NaBTy+mY769d7qZdwJ9bPGeNEf6/bcSXq5QEUEPf1djwfACo0aHpRCMQ4oh5CSh9KppAj8pbHZ60xIP7sNdObnThmQwLkoAFKXXJEPlopdfMy5/6Q2x7mI95B1efog8zIh/KLuc8385pThCI9SSmnzARz6PblM6yA6CyZ53ZVUI0YUUdpVb9fUpZCOQ5buBKEfxLznsz7zdxjx3FAcGqEj5YUb3vNq1gPhUI1QeVl0YU9v5f9qUEblTmmsKWF4j2YiggjKH+Ts9gcV/Oz2zaJe2hdv3bbSMvgDafuXAY4MN08eUTRCplmwVoyb1aWJYDs0yzHyTEgxNdK2gBW0lLhDFzesQjfWg+AnYZMVBnygeWKTSt6GdwE1pC+JD+fr7lxAOI0WwVjGT8GuPdE5e7h8PNZ/oMtzgRrbxZ+eyRmJDyidirJ5MD8fxeYSgmaXZu7kgfbPFWwQIBLYKLopKtWeCELuzRsOwTPLM5muUP1rFS2zXlUFBEg4odyDpuhL0rskrpk8PSUzAiZ4lr/4PRSOeuROT9mwuri6Foh4VQACIoJ3Vzdo+uhRYRdEFS0jJ6BIX4MWe5E7USwtJ1ACkYd+vXOD1EQnhoPXApb7DYKnMVOwFV7G+40x/wRPXGxbZ8LhaILVEOTmjMtTAj1Hax9EoVnF+k2GTerVy/Ecx2ScNOPArcAXyMDQFMuLgQ96M1VViBY2YTk1CQURalLPGvDkVaLIJZ5nI+WOJVj/yiYTIwL44hTLWCnEzjpa4O8dT90NJ+Y2DXxg9xiHz1LTauT8FtfHY4FLbSu8rikyXeJ5JIa4WtZsGAkje1T+AID6krRqJdGeHn9ysKfVLBmhqWLtpKUlohp9v5QYRDrVmWtdGckL0FzFFhpLdcmlWUgmo39+H0GybW7zApNU+MEyEs3K9PvTMgHALzC3WFV2yYnySMH6cYF1VjxRBVkDpnUSgbu5co3XnkDEhmmykf5j70rI9aNEX+EErcpaOXB8cWqMGDpRESqftPae/rV4QSQ3c95aAA0mSEJWq8a7O2ya136+La49XyEOsG9lb/l0Rtv62CEeLnc+DPQbZVdaKdjXB1FIqrYxWSm0UkiMPwX4u8WTLz/OPaNDLC+cXrias2tEymo6GEDaTF1zq9JovE2Gs5nS1CFc2Fbyswl+fwv0tp2bYWVvxJoHAGWF3n+y3VBy4AI4gOzhqPsj
+    properties :
+     x : 310
+     y : 6
+     width : 482
+     height : 524
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SPLIT_CENTRAL
+    identifier : 0x28b7f2b80654b14e
+    internal_properties : CAAAAAgAAACphSuQgDStR+hiUtrvqjuahJjxztminOyGTtCkCOroq7Nq6BeSvARLMCKv3L3ucUi/8ByG+qu/ErzBTN0W1Ts67X2mRPM7zBAFrZdd/s0PjmhEgnJu3GPn4Y4I6slh2ucWSAjkK5GLc4j9iCyrUrHtY0/8u2PV9R7KF7dm/ymKQfI5iNsT/HjRSen/9Gb17V0E8SIfg1ys4gg5bMidc/bQYFGG8ANZoMdEM7SOfkfls9YaQ1KxPgKgsbGsgNHbsson91+QDtARroGSP8Wb3nOHzF5mL25CkGXh3BzXly2IKmnbqbPZBrge9y8LbOsoGifZwWY/3Xf7WejNVe8sGlRwcvRgybg5S5zvAkyztzW6kTS+h9ARgwSQdXhhLUHO+BRnGQd78uUqSl0eRjDKL4F3XynkOVGxT3VVioHDbSLPw/RexRbW1Qi48h6a7lu4pBcV7ZRA51tblvSeZqPsquReVtDo8BKx8ZFx8xnxv/S2oJLINnbJr8mLlp3y8FLb2UhIXOWnlMoekfoVFUbXSJ4ylQWj5lXvIVMfsXsUMPWhylyY
+    properties :
+     x : 298
+     y : 6
+     width : 6
+     height : 524
+    type : 28
+    code_elements :
+     type_code : 61
+     p_codes : []
+  -
+    name : RADTitle
+    identifier : 0x28b7f2b8064fb14e
+    internal_properties : CAAAAAgAAAChnpAoJihRf9d8FDx+HutKE1b2NnjrEyM9cVCxZjVhn638Y0/YG4VfNmE5sLfJoeEv/Or9JpiJ2x0ucoWabrcu8hW4zI7PVJ1ru64zUmLDZV4JRYSACSgVYkQMMBE7M0ZwpkacM2fn3a8hswDeiR1iMMElWsROHxIOYd3ftP39Ta3WlewkP0JAG3ux5D4IrI6zX8aBLk8fO5Z3EQAGZR2ZdAxoRw/noct7ijeFKuenVy/Hp08NjVSAn1QirOVLyFMmzg9mGVG0zeMCClggkY1vHCp7I1dXA7evyVyzhfAei4MXwsXtNHEOO774dRCBb9Nxx25gQlHtfy6yLhlHaFArOVC18mimWaJcfrItpy2j4aNb9+egShXS4+3Aq1HGJyBiWnw5BWAr/OiiR7d8V8TqO2JPSxLAv8HLhUW33JR4TgvRvZhm+NPHxbdvYgVTSIl0Au9wyBWTGss4m0eNJEIBK+UTQXrsJMyD0g3iQLAdRmOxvTe/MyasQ6s=
+    properties :
+     x : -2
+     y : -25
+     width : 675
+     height : 28
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_Response
+    identifier : 0x28b7f2b80655b14e
+    internal_properties : CAAAAAgAAAC0vADc5+e8JiYqeDkjZynPGeD1+hqorYDGoTF0iXrznC9+KU/kQWapi3E35c9XTLeo9TGgra5oow8aWaULFcdTg/cbbNvgfJEuXQyb+HKXNjDsnPYa10jMiQz5kkDPh1Yoon3Q0HpnYkgZNHsRvuqHspbhe6wND6/V1gQoRBTB6Y0BA1YMH8F3+JWx/0ZBHBLmpioUNkyGKNqrqmhfNbIWo8EAkTWfgb5j03SMkZt0Vzb+rww1kF8+MxVHh4WKEY6F8Od/TNyP1b3UEwRS2bkISxrJPYijmsvKj1zchW2fFIEWISOfx4XjGvDuf2/CFDXSdO9C4RopWxcD7Gv5qG1SzmpvvBa5tcAoN8G1eOlXjham5ha7/Ij6F5DAhfkV5bFqGr4KNq5qKC/L4r/ANHGVB0jwzYzHZDTEYMvq8KTo7G4V0Cbrenlea4PYJroJKM7C9+saJ4fnXMBlvm1LOCqnIu2wdV/RSp/zsk/NbleQtpf853+R9HLbAbt5f9nqv4CyBUoBzJ3rgwYLCDMwnZ+M0RlHDi2klBXEfZAhfV5sxy0rIc+hHbcrZGeoxECfBR262vvjWGe4bYr3RtmHbvRtHzuK4Yl6mL9/5zSPICc53GYwVUkXqrM0vCJTGntMB2gaC3fgsm/4jo0acwTgVmdtE1nGPkT4n+mupN0nw9aUsvhLwDyz+m6uO/9fsbKy2Xt51jiL6rEs1KhaZJPq2KTc0n/ZGTMPy63QUd9f2nTWWPt7RDWOSzYoUGy0yvqfCsJ13VhTJfrsUTlLW/QrG2vOP0p4b29aScL5x+1NTab9XHrqad9PpTEYM5iey1OgyRB+jJhKiSgzV80IEkJGhg2ITqNDG7WEHZBIfady5Dlxttf4mrVu3rL2YusUylgt0BH28S/xx6jMVz5M8UmkvAdRn7dQB/M=
+    properties :
+     x : -49
+     y : -25
+     width : 16
+     height : 16
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_OpenedDirectory
+    identifier : 0x28b7f2b80656b14e
+    internal_properties : CAAAAAgAAABeApTFThlnyswttDLdD/OfFJSLJ5Fqh9sPi6fL0A87ElbVxKALyhR0Hm15iVz3JtRmQO/0YbPMarKOM9x8nj5KoXzGPr/JXDR9/xxwYbU+xx59ZwAeovi9L0PMlnyvQUJRCl/7umWSxL68jlu9IqcxY1K9Rt/33sW174FYImal/Tib0dE1D2NwPretjqAAN1Eg8bYQ+kWxxS2HAMd2Tv+R//nj63X2ugVkYzwh3syboo79As63o6PLXlP9oIIX9unp3zYTUrfZOFNaXSvBkFID3d94OfLOxKj9KXx3oNIOyd857es3livClwYisCwFv3yST0ha1TdtrnptdLTC3dp9nksiLnrwqWszbx+6seg89SIFX7ITdfZPVrbEPjKFnkr83VJY0K2kty6/aOYfDzfjGCh2iA3txGAm6mWYb5c54UUe2QrOiOFF4zujwhsbDiHSvmVdjEfsCTJ5yk2D/4tMcl67sfiglzdx+DcjFXpq2I5L/gsNG40F1lZQejqiPGS6zTLfzztac+5Ubwiel7V742D0EPJaKAifxJKS3sH1iklenn7kOO7G/WT4iec4YGbzgYDPbirYIsdwRQQaXeLjHO1O/hSHCvyL/oivP3ieDD/+thM9G3iHnWKkJO4tOz08QKmoWt+yHfGmHIZeaMTYXNaeNwlyWqo9osa4j9HwtuckkzC5gpr0aMWuqycQfSflusGpwfF/G12FRPixvq13oWPuGAQ1V4RUVmCOgaE2ruZPONUgpk5btPLXNNGs/0JfvvbIunurbkBUQYgivJmoHUrWxyvA2wRUw32tRrsAzEwKeu2PWKHzc/WOXR9nucskMzIHQIrDRTgONt+B+73/nnLfY3/QojuCjP0gRcmXXa1UjYBiMvJB1z3R5ji14SOsyCjLl6aiJcwtmp/l7bcoBny/qEQ8dyVA8ku7tMoJFYIDMwQ=
+    properties :
+     x : -79
+     y : -25
+     width : 16
+     height : 16
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_ClosedDirectory
+    identifier : 0x28b7f2b80657b14e
+    internal_properties : CAAAAAgAAAAxlILNALAssEZFqfYv7mzW53qrID3GRgqPtheCLVWPDn6ZVZQ1zf6+n2Sa3zdR0DKMux53kHpEUlJ/M4VXgo4BGqVvneUqd9YHSo3JKWGlqYIpjrH9jUOejgZ59IAmhsHCg8CaTVf4w8Vot54YgpEwPt4CZwMO3ODnkg2aUwDBnGPH+e8C/KShWsTJOHmI13RqTmSM7jxKxivS/5cbBKpE2XF023V/Ltab+bEGFaWUdCYaTZ4X6u7rY+Tx5YOETBovhd5PJ6KsXKm34ZZ4SAdXGqro05OheOf+EL7ip7sRFRa5ZOCJGg3V8tlw2sjlBBMf7UPc5gMw9R/lIggWK/VTYEciGG7J2ZNDlgtrqz41oINUxpPIwM09HuG1avf8IIeybfe/mHVYgJUszR4fbR4CIcfsdSyy2XsR0i/ev5oggGXYpHCTazkcFnmb72yuHabKJ+jPWhw497fvh8/jklkNSqOl/DvnTAwC2v6aD/alncY+xWkBAHviY/BFVFEqRNPQoHtFDp/TmQ+Ic9U5pBaJ0Wz2MJjd05+RMuIuFk+0Uc544lk0RDEdphbZiW9qewOVgCjtzcG4Q21CFJOg1s/vohrCJgIxAt9SoNzANYe1cC7efhopm8BM6vopBiV4V1ZnuSqDCXwXsoUK0tCB9H0AhO9v6GOWCUKNAnUE39Y0IXjmYEAkv0t8IErZe44IigAaEnuk4QloQ+8LciJR7Jv9EPglOv7xnFbzfo4RKm+li+BKUZBkPpoNTCel/d9PshZSZKdvIbNdsfWOPDGxdxojPX03Drd3ojCgpuZiSo49O7S9M6kN7G3n8K3jJhcmC3Vdv/iGxHjXggU8PadbZZUYWmZSYqnsv/yjC34W+4LADN2zPsVvPjvF779+iPiAxT5obhQlHMvIfIfb3JLEAdnFRYb76p6gspMCzsWMfBRPKQNAwqtSa6g=
+    properties :
+     x : -109
+     y : -25
+     width : 16
+     height : 16
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : EDT_Find
+    identifier : 0x28b7f2b80658b14e
+    internal_properties : CAAAAAgAAACZjjC8GZAN0HvUnXiLXZBG3zEvN0l6fWC+cUwwSF6Cl5+M+C4STzEi4WnZvIOBqrccSgqAU2WxAVVFmsZuK4ZJ5LhLJqTY8UQBi9xRwACdzwa7Hk7WJnhB0BI/z2Qs/PCWhv6UsSvm6IouZy/PRysTzlfzdLzl5SWW61k6Ym6oBM4knUtMKcijAHy27BebKmITRdUD7fLJ1E3DBpSb0QwtjKEt9Y7L36PX58XyvDEVZOb4W9g+zkmYWHOc9E1b8VL4Go6tFtCrh2Ok3eqCI32jdKkj/HmI5k/tWDc7Yx1GLqB0p7YSCpWcbJ9vfJpp9SAH53WYvjanY7Go2rsXrPyF+NzHSgfo49i0H+W5Hs4LHTwSUmKMi0m4tyXSkQpHxA8aVtheUjWK8xKpT1fGi98MSFLF7UaoVTfqBbmNAoCXHo1KxxtcKk/meF8qmhyGUpAkBvhs44WppjUC8UerpmE1TukiHz0sWelXZNGSPmQMkZBl2RxCSpuENLhFzwPLkqXvLy6YnECmHsvbtkPhJqeo7tIXHMyKuJ2PFVqcj/1mUaBB4o94v/1HxXhe6DWQdsQGS+fjkybSD67MZwRnlC0TxP0qlvcucas0Zj9u+jA5Ah6hmUBp/Adk/R3jOvDSUoGWCUWFTRa0jTU9ibdjCmfiTnwxpscvFp3NXcNhpL1Do2WsMZRLzZ3ZkXuAb0GPJek0HC3MBHBiEVKggpmA6bHnwynG4/wPPq2WjOcKO01oCP8wqIXkAhfX/UUq4LZji/yGBMiN2BFxTfz3WqqTip2/YNveQxEWbCV3kwT6kSUvs6RlqZxGkYeXkV7RfkidZGzzE/G6NWpV3uhWSFRxvX4egc6a5YhnUJQq3aDdBPZ60JiifkMnDQ3faty41QXhEJ60XlYu2CxMi6PvCbfAfzlHaLB2kkjLe8XAdJMPJlC3LQbUJ+ro71iC7OsUzGtU2f/O4q8rtuRK2FdhZXGPT4dhq7RP9iXi0MPCpagEHS55kcI/O6ZS+8JT0fuICyc2Urvwl03uYefI6BpOlYKplbt861WU/fRl7vDmHUuvINHkluWCCFUoyrN2WUt1N0G2fInLAvVD6cmR2I1cDY9BZvB20+EgAZ1Iu+TA0dsRuN8g2DMCI0Z9qzvduAjK9YGb1cGbsZCKCp8QWxu5oGFYIWwcJu6NWXMgCcLgYyoMcGbOFBgkiZRPOwJCyZomZtPEi6ng5+x/mZLoSfUjb1m+cA2TH6onML+J7xwxUJ5KvUEV4RLMYoI+6ZRmnThDoWcf9VNQWdVHAQNvzO3rtTyUyr4lxMBW7okLpjUqz1fniM18butaeqNPnv8vIwhZUoN9+Q3JB9gU1nY27xr76PEMy6xYM2VtCB9/1begakFZGA1G2vc5RKJD7yMMW/M=
+    properties :
+     x : 6
+     y : 6
+     width : 262
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         // Stops the procedure
+         FinAutomatismeProcédure(Find)
+         // Starts the search
+         Find()
+        type : 17
+  -
+    name : BTN_F3
+    identifier : 0x28b7f2b80659b14e
+    internal_properties : CAAAAAgAAAA1yeVeYw3GrHAF84RYE2QAx0iH6bygU+afft+3sR4AIA24+dN29AhgQvtCD6e5bYaIKx4l17Na6PnaPZ2PpgEJYLCIZOHjlsmDfuGw88lUNx0rnJJWdkSgfzujbMsUAmeGKO4LUtjN6d+PEhAH9bzddf5isW9gVp+tD+FVi080sJQEGQiv1zIwCwjKYZyVqp1JSQ3hrMIRvQ0sxPYlJoePUjha6bd13ajr9jKy4CWkmPR2m5iRwGzqfGnWJwGCkjVNjv+yI0RyWkBrKZ2zCcYMgF+BJpMac10ShFMD3N8F+mlm+0nuoipBwV72h+gB9O0yWwyGoTGLxhN3uig0Cn72IjjYEV5O/kkiVY5UK+Gpbz8J0K2GK8SDIWtrkOow07fsOY34AEOwUL5VX/zZVK2LtSkmAqO6lgm7HnFB3rkH4zZR4hIA8bIt9nOzT/tW61oI2vvnrPE7lub5vpEg4enUZ3f14BZHCRDl5Lj/rtFZxTaL14XdfG4lMsZAgdSsrja+uQ+EtDjP0K5kK7ioKkwgJaAFUYALiq8grWItk0xYkTHl62fcXsK4H8NwRJr68gDuevs1R8gmyyST1II/C1q+nHYdZmU97N3/dB5JuIolYznkbHwrNvkUeOU6MYhyKoU93Qywi75UgbFF+iiHdPlScLfKG0+Q9+zDg6H1jTSUuW+DO3Ai6XRo/ay70x7QsT/dZTCvPKjr2GkvLC1Jp7dkQnqClrn4S+BmzYwtg8QZpPC7HxpTnPs7TLpBuVWYWl3Q/IN1vh4ZNSLmgmOp15EdlqArTS4UeONkQB9EJklfEIZt8sPOG278/d5hCnBYtqODq4JO1cvvLcX4/zzH3yWIxQmonzqiNv8CpjkXs8yRsNeFBtA15HecWQOA53XZ4wztBz7KrS2WZrfSNWbqSADFCOlMB1gRtm9aam2Qt9oNxPJ3ysXUQIab8P2DVPLN6qAgO3TMJpfdX03qe/86RI7/Qmpag1gan5M2Ao4Xg4MTfQ2he8sFoaLLxDoYvP+wOg==
+    properties :
+     x : 268
+     y : 8
+     width : 24
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Display the next result
+         Search_Position()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_QueryInfo
+    identifier : 0x28b7f2b8065ab14e
+    internal_properties : CAAAAAgAAABZD26kmQzyez7Pkzo4XKKqVYm1mESC2mSbZrpboxL1MlSXOMok61KbW6YLTCdrZo6R8U4w+m2To1dPrvDMcfHg0WIcIjUEFjFxHv6YZLuqjlTph8Bwd01PbWyZ7sJsGRn3iuZVwpJNv0z+R30+S3AHd7FOmD1SoOugH4dfzp/cPAAFsuL1MnVqfAbc5gfie+SCZIQ+PUJUQA3wX0dCEIm2D1jTZRQ6S0MyPcagI2pCkmHwBFSXCqLQVdhVUdHskUOq6igwMKP1lJ1JJPGgliZroIWEtFQ4sVZrhbWX8LjKX4dWEuMB6W+ME2MhG5WA/V5mkMPt7IiCoHSbZ8RTD0h/fnaKRxSbpa1oOje4EkSv8BvYfeqnNC8FnedVTNybJXF6U3GUb1GJPTmo2sl8j+Njt9E9P/Ah/o73G17r/yGJcjjLpqHAWXLyV4VQndsgnCMaFybMjQvggaZN9LFeTOjks+iPaq7sZbNp0mdw1/uMNbCsO7AXkMqxQSzrimU0jg==
+    properties :
+     x : 6
+     y : 536
+     width : 286
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+         // Clears the default caption
+         moimeme = ""
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x249aa1b115c63400
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ popup_menus :
+  -
+    name : MENU_ManageGlossary
+    identifier : 0x28b7f2b8065bb14e
+    internal_properties : CAAAAAgAAAB7DTyHKlNm/lq7bp4Fbt6H30M7s4Y0sYKpcG49eZ4mA1bQnH7GCAHMQ1fSJP/ckJzW9AYKx6Oyp0XSP3EA3mHc4F0B6D8E2MQUTqG/gKi0fekXDAs8hMszF86cKkRWko8AG55/y3L/0ub/u4RfSl7781rr3EAdM+c4E3wZIsusFYD7FjeFsNMJeNFyo1FKnDx8wCdTVaLoSI6VmlhdVVxdjSpjqpjvhDd6T/Pjmqo/HxhG1Vh2R777n1y5Yn/nk865WzHDdF7eQDQIdnpvN3RUYlaQ5oXm8PP9u4Q4/SmbZkzdP582xTQDBTcYDsnKu7Mfcdvo+O23euTaKCMDPrIBgO5eyRrBbFWZahOAwgtJekGiihq7T9UkVUo2ndQ2dSfMzlrMLIC6kBnWpzw=
+    options :
+     -
+       name : OPT_AddEntry
+       identifier : 0x28b7f2b8065cb14e
+       internal_properties : CAAAAAgAAACGCqQb4Zt2UuhGvG9GzqAUayzXVHrZEmYuVP6yNTxZAUwg02le0lOUHE97yZhjmFLsGQ4OdfQoXWYVkZ78g9KdsFniG0xpmgAuTN14Y2187nsFdTiIMY2zuJq/oLKepKznjqkMA9P0e9lKKkiH8rNb+HYyquSXZdbrnhkrnJtkEDQzug/IWTxBPIUfwx9Tfj4QlUCx1jKfwe2TPvfyirdxNfSYW+CxZH1QfryGbJ0UFXW73gUkiVGn9znRDXUEYVJ4xDUALBKO3Kgs1/gfJZfjdD7DbmAkhkf8YkBdPdi/XD03tplbbsEMNmaYijuYayBcMfzRZsfiKU2rL+Y44/UT13IkBzIl64kGMiLpVbGMhmANUnWa+VjKNYrj2RLrm0w4tFs76+WlDtcZFR7Sh5bFfsqwACBfiKIikQg7DJLFwEq0lAOIGjrOv5L/KAKDMK2614GUy6C61E4YhCAvl2CpxZkmGaYczZ+6VTxy/Bci2Q+vjACWYLS8pg==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            // Add a new response
+            AddGlossaryEntry()
+           type : 32
+     -
+       name : OPT_AddCategory
+       identifier : 0x28b7f2b8065db14e
+       internal_properties : CAAAAAgAAACis7F+3RBaaNcM55sJYvNiCcvo8l0BK1+ou2UdVnMi9vgTl53A9TktIyA50u8pW2uEsFsl6su865K0xaDsxsTZSO6U03YbvxokkqSct44E+lMHu8Ma1TvrSkdxQ7/8VXGTVLsQxPMr9r1ior2N6WPT+DeApZp55wZGTFbxEK7hzfK5C9Xp7uOZEw7tlu9bFrUgnstczGG5o0X6ZKg5+wkDosJf0O+3lnO6tXVAkWAo0UYPK3L4Pu3QcrBfqE7ZLh2r5h23r7n5wZ352Rff+hD4C1WoXJN8k9Ea8E8KLuglb7+kpA9jkGIjjzJkB48SI99OxO51U1JhoKiQau729qgBIAeqC+Je0G+Wx60DHa6TtCfxGTCOW3AeoQfoN+jTY8fQ7sIxQFMWdYtM+gS2SSErtjqP5yyd2AynrkSXBucBeTYO7BzKct2dbL8xh0h2WzyPcqmGm2zHmpNwspDRFKKC6SrXGmoW4ATwXy5skqF1zVo1aF9VR6Iyjb8lQ8lFpRq6doEEmaR+Uf8aqggRdg==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAAo19Sy+/VOqKNuM1aSJwSv65gJtaxVrJbBmz/jfTe2V08o/HldBcfP7voLUUXCN2SneAfnu3lJwMNcHomj/CfPJG/WAzbqx1y5Fc58WWz9UYrBwJmhadmnOylbSgDbwuX+pTcr0qlCyxjxGQ==
+           code : |1+
+            
+            sBranchSelection est une chaîne // Current selection in the treeview
+            nIdentifier est un entier // Identifier of the element
+            sParentBranch est une chaine // Parent branch
+            nParentIdentifier est un entier // Identifier of the parent
+            
+            // Retrieve the selection and check the type (leaf/node)
+            sBranchSelection = ArbreSelect(TREE_GLOSSARY)
+            // If a branch is selected
+            si sBranchSelection <> "" ALORS
+            		
+            	// Retrieves the selection identifier
+            	nIdentifier = ArbreRécupèreIdentifiant(TREE_GLOSSARY, sBranchSelection)
+            	
+            	// Reads the corresponding record
+            	HLitRecherchePremier(Glossary, GlossaryID, nIdentifier)
+            	SI HTrouve(Glossary) = Faux ALORS RETOUR
+            	
+            	// If it is a category
+            	si Glossary.IsCategory ALORS
+            		// Defines this category as parent
+            		nParentIdentifier = Glossary.GlossaryID
+            	SINON // If it is an answer
+            		// Defines its parent as parent
+            		nParentIdentifier = Glossary.ParentID		
+            	FIN
+            	
+            FIN
+            
+            // New record
+            HRAZ(Glossary)
+            
+            // Defines the parent
+            Glossary.ParentID = nParentIdentifier
+            
+            // Opens the category form
+            SI Ouvre(WIN_CategoryForm) = faux ALORS retour
+            
+            // Finds the parent branch
+            sParentBranch = ArbreCherche(TREE_GLOSSARY, Glossary.ParentID)
+            // Adds the new category
+            ArbreAjoute(TREE_GLOSSARY, sParentBranch +[tab]+ Glossary.Caption, IMG_ClosedDirectory, IMG_OpenedDirectory, Glossary.GlossaryID)
+            // Expands and selects the category
+            ArbreDéroule(TREE_GLOSSARY, sParentBranch +[TAB]+ Glossary.Caption)
+            ArbreSelectPlus(TREE_GLOSSARY, sParentBranch +[TAB]+ Glossary.Caption)
+            
+            // Display the selection
+            DisplaySelection()
+           type : 32
+     -
+       name : OPT_Separator_2
+       identifier : 0x28b7f2b8065eb14e
+       internal_properties : CAAAAAgAAACQDKJu7BSl7oMuF/e+Afgpc41hJgFQAP73CLWkfAWlQyde1KWwLgUaxy/bans6DF6zRTE9lXvptGmVNsfqhaX51UrYRemRKw8lScjbpzeVL8P1pTYwsmjzzDYhXZ+COjtiyCEEDTT4H5nd20IPxyIcNIOkrt8AmZ3dpD+Ny9Y0DSBw/W8mSqj+1cAmaMa0qAUhjge16+/NtsFDdxMUYTb2/Dcc2zhENUZutJ8cJooquUaWMzIyg076VawUSbovfTYb3x47DBBsrOgmT9efu/tp5+VzaB3zknkAl/FA2plfXdUwXFUIqlbAP+xUqNG7OUheznk7iMdqYrGPFhjoUiJhnAMCbVKVmAOjkBob9SlK5w2APYGIqzsgLNVK7ywYnp3bZX5W3843mFEhm+kJ
+       code_elements :
+        type_code : 26
+        p_codes : []
+     -
+       name : OPT_Modify
+       identifier : 0x28b7f2b8065fb14e
+       internal_properties : CAAAAAgAAABzGviHh4twu7eZ3Hh7Y4HI8wntt5hHoIBwUhnS28ePM99pajvebdqlUOxH/CTLbbacFp3TzOowCbvi3NWmx+/No+9JCRIX9+y/fZNM5DcsejT11Mb5F3PSZawHE2VkAXBGDpScfJb6i/JhGuTtM0DZlDkDMVzYOpiqSGESkdifBSI5sHORJwu70ZOB5Gva5dZ+D73vov7w37fazvnGanZ24Wet96biV/Nwr8loCAvZxLq42XFtt1sfqTz2yW2RioIFdJNL761/cc9sLtsBRi4fEhglJF+6jEZoRx2eMb0qWriD8auoxxSKi7ZAIl995oopliQ9ZOY0BYRGpUqlRc300+zjjo8kB2BtOpLULUpKc7sMIPp0lY38nr3aUdgjQI7NaguyhtAd5oJoSQ1HiEFms1i9Pv5X/yzoQ9Fq4JyksLzSwcSKyaNybb2ZP7DdW1NLnomFCwINnQcrT0PihfDERGFMfUgiPGxNA1Fj3sU=
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1+
+            
+            // Modify the current response or category
+            ModifyGlossaryEntry()
+           type : 32
+     -
+       name : Option2
+       identifier : 0x28b7f2b80660b14e
+       internal_properties : CAAAAAgAAAAZBqcKEXjw8WA9zkEnk2FGLomKC9YUmT1blOsjRlBKUpLF78yLD1NIaZWQIk1n4B3CIqDelGKoDA9jqYj5ksIMRGP9NWDVm9Zb/4GecCisLnpVo9NFz47w/WYD2BlPA7iZ8CsyA7GSPaU74uvmISJqVnTRpOuvxnxtNB1VwVkbxjPXhoeHLffIxmzogxIx+cyDS65mzRSKzSDd+asHQyw5AN7L75DXqHYsXIkuxQDjXapKSQGKHtkCU3GqYtIqLwREykDoN+X67xB9/5mjt8E/6jbtvkr+hJiOC0pRY3eIXa8dQjRtCXK4IxKxkqmGGEwalr5Da3ww/ZYsKaM5nKD35UdyDmnLyFG+m+pYahwgNkutMylL9Uz0Kj7X2E8uYjMh+PDPATBdRJuz
+       code_elements :
+        type_code : 26
+        p_codes : []
+     -
+       name : OPT_Delete
+       identifier : 0x28b7f2b80661b14e
+       internal_properties : CAAAAAgAAAC3oS6rdM9YPglKh+zUO26uBFv/+t0h58EDiXiJ6GHWXFFsGiX2FwFfLU1JsA83gNBUhzZ5c6zg5aqVLfTug8yMMNEhKk3CV/xlAoj46k3QAIU4AmzfuUNMJDbv4Gb8QGfuTY/QBfU56r6HxsMrVIfWYpZo/spw+ENVTb3C7DLC0Mf9uJ37mEChUEUNiAynnNjlPIBWLhi8Hn5k/C3OEehd9qiSMQvAdKD0tyGFgqQfhMzyXqqrB3ByA6kwQuD+UW5b3KrF2MKwb9XTkg3taMZrbZ6tUMHSo12uqGS2OoEZuFZ+wPADBtIaaKzO856PQeVDqP4dg1lf9j6xPwh1hW1cudTV3xGflKnwLNUWVkOhYkaI2ba+3VYr5q3p01ZanYMlqPFRihLYNZ+aRzCjjFoAJt3sFIiOt46KbDnzcObiUOWjeLiWtbjninaH5pygINQT17IcHhc3BokcBZI+zkQ3Y8lN2Isy+f/jMGCanEjoR/ZncoehKZbqbwprcA==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAAXxSI5rouHKLx35aBjJqpjLCSzLoyCMFVMJ0ppoxKoD6t1wFAFe3nNI1ICnNCGGEv0yiy5zgDdngiZDZHVyvCjj3ORloXcECmBaRsAXJwhAPJ7SQpoATL2eOnvCb10SustEwcqZCuMWMW79BPwP5B37B5nr2RDSmVaFbtOwlipDys1JoXbNfxDs85obnObgwztfvUIzG4gGNb2TTyCIQ==
+           code : |1-
+            
+            sBranchSelection est une chaîne // Current selection in the treeview
+            nIdentifier est un entier // Identifier of the element
+            sCaption est une chaine // Initial caption
+            
+            
+            // Retrieve the selection and check the type (leaf/node)
+            sBranchSelection = ArbreSelect(TREE_GLOSSARY)
+            // If a branch is selected
+            SI sBranchSelection = "" ALORS RETOUR
+            
+            // Retrieves the selection identifier
+            nIdentifier = ArbreRécupèreIdentifiant(TREE_GLOSSARY, sBranchSelection)
+            
+            // Reads the corresponding record
+            HLitRecherchePremier(Glossary, GlossaryID, nIdentifier)
+            SI HTrouve(Glossary) = Faux ALORS RETOUR
+            
+            // Stores the initial caption
+            sCaption = Glossary.Caption
+            
+            // If it is a category
+            SI Glossary.IsCategory ALORS
+            	
+            	// Confirm the deletion
+            	SI Dialogue(ChaîneConstruit(<§$0008§>, Glossary.Caption), ["Yes -Delete", "No"], 1, 2, dlgIcôneQuestion) = 2 ALORS retour
+            	
+            	// Delete the category and its entire content
+            	SI CategoryDelete(nIdentifier) ALORS
+            		// Deletes the treeview node
+            		ArbreSupprime(TREE_GLOSSARY, sBranchSelection)
+            	FIN
+            	
+            SINON // If it is an answer
+            	
+            	// Defines the confirmation message (that depends on the type of node)
+            	soit sonfirmationMessage = chaineconstruit("Do you want to delete the %1 response?", Glossary.Caption)
+            	
+            	// Confirm the deletion
+            	SI Dialogue(sonfirmationMessage, ["Yes -Delete", "No"], 1, 2, dlgIcôneQuestion) = 2 ALORS RETOUR
+            	
+            	// Deletes the record
+            	HSupprime(Glossary)
+            	
+            	// Deletes the treeview node
+            	ArbreSupprime(TREE_GLOSSARY, sBranchSelection)
+            	
+            FIN
+            
+            // Display the selection
+            DisplaySelection()
+           type : 32
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - en-GB
+ message_bar :
+  internal_properties : CAAAAAgAAADtlaV8I8C0AX2E0JqsfdEsDoimWrsa6mY6MNap2P9TOT/DD+AEQ3cI2oX244AIlWKPDAvbwQtpgv2OoJT1POBS721cv8Mg7miVgMv6rQopbYHJnJZjHFWslMFjBX1Y
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAAAXnAIR9uznRP0r4N7TrTnzl8VrVXHIvAL7/OYP8iFCO0S1VeCwnH8GFiwg89XEVYAbie3S+a4VjMRIGaZrMEoCUXYoa+NrccUgTk9/ywe7rLTbmRgD44FW+TphEStYpHOmhi4ScWoXowkisI+b/wP+R7WmemOYpkv9hh/Ycda58S19P1UIm1CDQoFsftW+pQlB1BpJD6bAEV05ScnZHWg/T8NSMHLvISrL+kadNLjxRURAKkhImzC74+VZcExwZzqglfwgwLB7lHFZ4x7AObAQvkbZjTG4Pv8=
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADj6iLsRwVuHWnCA032vh5LqjyCcGUNFqWbsOrEUKfrn/hNgcF2HQsPjJckLR+igZYXy8E/QkO4w3oDAwxV0R/+qobgmmGm2IJCu4X07CyP5iDN9FhqBmiPOrsGMpaQS41yrpkhYzY23SuFWxAt8GI+NeT4qHIvPBQlxp53U0Vs7w==
+     code : |1+
+      // Syntax:
+      //WIN_ChooseAnswder ([<gsChemin> is string [, <gsSearch> is string [, <gbExpandAll> is boolean [, <gbRestoreGlossary> is boolean]]]])
+      //
+      // Parameters:
+      //	gsPath (ANSI string - default value=""): Access path to data files (created if not found)
+      //	gsSearch (ANSI string - default value=""): Sought answer (according to abbreviation)
+      //	gbExpandAll (boolean - default value=1): True to expand all the branches
+      //	gbRestoreGlossary (boolean - default value=1): True to reselect the previous glossary at each opening
+      // Return value:
+      // 	None
+      
+      procédure WIN_ResponseChoice(gsPath est une chaine = "", gsFind est une chaine = "", gbExpandAll est un booleen = vrai, gbRestoreGlossary est un booleen = vrai)
+      
+      // Default return value
+      mafenetre..ValeurRenvoyée = ""
+      
+      garrResultSearch est un tableau de chaines // Array of search results
+      gnSearchSubscript est un entier // Subscript of current result
+      
+      // Location of the data file (if a specific locatino is requested)
+      si gsPath <> "" alors HChangeRep(Glossary, gsPath)
+      HVérifieStructure(Glossary, hcompatible)
+      HCréationSiInexistant(Glossary)
+      
+      // Load the TreeView from the existing categories and entries
+      FillTreeView("", 0)
+      
+      // If everything must be expanded
+      si gbExpandAll alors arbrederouletout(TREE_GLOSSARY)
+      
+      // If a search is requested
+      si gsFind <> "" ALORS
+      	// Assigns the search control
+      	EDT_Find = gsFind
+      	// Starts the search
+      	ExécuteTraitement(EDT_Find, trtmodification)
+      SINON
+      	// Restore the previous selection in the glossary
+      	si gbRestoreGlossary alors RestoreGlossary()
+      FIN
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      // Closes the WDGLOSSARY file
+      hferme(Glossary)
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : CategoryDelete
+     procedure_id : 1781159049743937870
+     type_code : 14
+     code : |1-
+      // Summary: Deletes a category and its entire tree structure
+      // Syntax:
+      //[ <Result> = ] CategoryDelete (<nGlossaryID> is int)
+      //
+      // Parameters:
+      //	nGlossaryID (integer): Category identifier
+      // Return value:
+      // 	boolean: True if the deletion is effective, False otherwise
+      //
+      fonction CategoryDelete(LOCAL nGlossaryID est un entier) : booleen
+      
+      nIDGlossaryPosition est un entier
+      
+      // Finds the requested glossary
+      hlitrecherche(Glossary, GlossaryID, nGlossaryID)
+      si htrouve(Glossary) alors
+      	
+      	// Stores the position 
+      	nIDGlossaryPosition = hsauveposition(Glossary)
+      	
+      	// Browses the child categories and answers
+      	pour tout Glossary avec ParentID = nGlossaryID
+      		// Starts the delete procedure
+      		CategoryDelete(Glossary.GlossaryID)
+      	FIN
+      	
+      	// Return to the position
+      	HRetourPosition(nIDGlossaryPosition)
+      	// Deletes the record
+      	hsupprime(Glossary)
+      sinon
+      	
+      	// If the glossary is not found, returns False
+      	renvoyer faux
+      fin
+      
+      
+      // The deletion is effective
+      renvoyer vrai
+     type : 458752
+   -
+     name : StoreGlossary
+     procedure_id : 1781159049744003406
+     type_code : 14
+     code : |1+
+      // Summary: Save the current position in the TreeView in order to restore it during the next use.
+      
+      Procédure StoreGlossary()
+      
+      sRegistryKey est une chaine
+      
+      // Retrieves the registry key associated with the project
+      sRegistryKey = projetinfo(piregistre)
+      
+      // Creates the registry key if it is not found
+      si pas registreexiste(sRegistryKey) alors RegistreCréeClé(sRegistryKey)
+      
+      // Writes the LastEntry value to this key
+      RegistreEcrit(sRegistryKey, <§$000c§>, remplace(arbreselect(TREE_GLOSSARY), TAB, "##%##"))
+     type : 458752
+   -
+     name : RestoreGlossary
+     internal_properties : CAAAAAgAAACM9C0oRwlrvSDTnnRB9A3eFUArarWx64cUJHp2nRvsvc5+PgZfapJiouDz9EhzYae4GYeS/3VX5vc6HH5Csvjuj7NMKYItW6M8i3s7XRtR3eRXHFf3ei88zqNO7C/ICmvpyFc9tvmlXlCDfjlY0tnAVz2xeJavijE4pUTKIeFnnp13pzU2a5SBFbr83PG95P+vrpQJPKReBPHQZkA7miBwblX6qnpn
+     procedure_id : 1781159049744068942
+     type_code : 14
+     code : |1-
+      // Summary: Restore the previous selection in the glossary from the information saved in the registry when closing windows
+      // Syntax:
+      // RestoreGlossary ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      
+      Procédure RestoreGlossary()
+      
+      sPreviousSelection est une chaine
+      sRegistryKey est une chaine
+      
+      // Registry key associated with the project
+      sRegistryKey = projetinfo(piregistre)
+      
+      // Reads the value of the registry key ("Last Entry")
+      sPreviousSelection = registrelit(sRegistryKey, <§$000c§>)
+      sPreviousSelection = remplace(sPreviousSelection, "##%##", TAB)
+      
+      // If there was a previous selection
+      si sPreviousSelection <> "" alors
+      	
+      	// Selects and expands the node
+      	arbrederoule(TREE_GLOSSARY, sPreviousSelection)
+      	arbreselectplus(TREE_GLOSSARY, sPreviousSelection)
+      	
+      	// Runs the selection code of a treeview node
+      	executetraitement(TREE_GLOSSARY, trtSélection)
+      	
+      FIN
+     type : 458752
+   -
+     name : AddGlossaryEntry
+     internal_properties : CAAAAAgAAACaqzWs0+gqtVpsrTRDNUfQYAeCHwKRPVy1qTToTI3oxaIt7ZOTFV08rehdZbwU1jfY3QEi6tpcY5JIpQngm5odYGbWT2mXhplGAVesBNswRSpnfkW6/ZLXxVUyaWQ7qHcinwFEe0gn3lPWviVB
+     procedure_id : 1781159049744134478
+     type_code : 14
+     code : |1+
+      // Summary: Adds an entry into the glossary
+      Procédure AddGlossaryEntry()
+      
+      
+      sBranchSelection est une chaîne // Current selection in the treeview
+      nIdentifier est un entier // Identifier of the element
+      sParentBranch est une chaine // Parent branch
+      nParentIdentifier est un entier // Identifier of the parent
+      
+      // Retrieve the selection and check the type (leaf/node)
+      sBranchSelection = ArbreSelect(TREE_GLOSSARY)
+      // If a branch is selected
+      SI sBranchSelection <> "" ALORS
+      	
+      	// Retrieves the selection identifier
+      	nIdentifier = ArbreRécupèreIdentifiant(TREE_GLOSSARY, sBranchSelection)
+      	
+      	// Reads the corresponding record
+      	HLitRecherchePremier(Glossary, GlossaryID, nIdentifier)
+      	SI HTrouve(Glossary) = Faux ALORS RETOUR
+      	
+      	// If it is a category
+      	SI Glossary.IsCategory ALORS
+      		// Defines this category as parent
+      		nParentIdentifier = Glossary.GlossaryID
+      	SINON // If it is an answer
+      		// Defines its parent as parent
+      		nParentIdentifier = Glossary.ParentID		
+      	FIN
+      	
+      FIN
+      
+      // New record
+      HRAZ(Glossary)
+      
+      // Defines the parent
+      Glossary.ParentID = nParentIdentifier
+      
+      // Opens the answer form
+      SI Ouvre(WIN_ResponseForm) = Faux ALORS RETOUR
+      
+      // Finds the parent branch
+      sParentBranch = ArbreCherche(TREE_GLOSSARY, Glossary.ParentID)
+      // Adds the new category
+      ArbreAjoute(TREE_GLOSSARY, sParentBranch +[TAB]+ Glossary.Caption, IMG_Response, IMG_Response, Glossary.GlossaryID)
+      // Expands and selects the category
+      ArbreDéroule(TREE_GLOSSARY, sParentBranch +[TAB]+ Glossary.Caption)
+      ArbreSelectPlus(TREE_GLOSSARY, sParentBranch +[TAB]+ Glossary.Caption)
+      
+      // Display the selection
+      DisplaySelection()
+     type : 458752
+   -
+     name : ModifyGlossaryEntry
+     internal_properties : CAAAAAgAAAAGSQrGXkhe3CHsKWWTeRF/vR+S9fAcQbo6xo4wgNzONt+myrWdKQ8sV3WF56eyMI5MCCsHln36XZA5HrosNWf5XrVVidOO9Zbcjq6H65HXsQ7ag6mkHl4Ewh4kG5j8sOEC3aIpIfnFWUPh3qHStQ+eXNPRs/AbbYEu/py1Qp8zlRAW
+     procedure_id : 1781159049744200014
+     type_code : 14
+     code : |1+
+      // Summary: Modify the current response or category
+      Procédure ModifyGlossaryEntry()
+      
+      sBranchSelection est une chaîne // Current selection in the treeview
+      nIdentifier est un entier // Identifier of the element
+      sCaption est une chaine // Initial caption
+      sAbbreviation est une chaine // Abbreviation
+      
+      // Retrieve the selection and check the type (leaf/node)
+      sBranchSelection = ArbreSelect(TREE_GLOSSARY)
+      // If a branch is selected
+      SI sBranchSelection = "" ALORS retour
+      
+      // Retrieves the selection identifier
+      nIdentifier = ArbreRécupèreIdentifiant(TREE_GLOSSARY, sBranchSelection)
+      
+      // Reads the corresponding record
+      HLitRecherchePremier(Glossary, GlossaryID, nIdentifier)
+      SI HTrouve(Glossary) = Faux ALORS RETOUR
+      
+      // Stores the initial caption and the abbreviation
+      sCaption = Glossary.Caption
+      sAbbreviation = Glossary.Abbreviation
+      
+      // If it is a category
+      SI Glossary.IsCategory ALORS
+      	
+      	// Opens the category form
+      	si ouvre(WIN_CategoryForm) = faux alors retour
+      	
+      SINON // If it is an answer
+      	
+      	// Opens the answer form
+      	si Ouvre(WIN_ResponseForm) = Faux ALORS RETOUR
+      	
+      FIN
+      
+      // If the caption changed
+      si sCaption <> Glossary.Caption _ou_ sAbbreviation <> Glossary.Abbreviation alors
+      	
+      	// Modifies the branch (caption)
+      	soit sNewCaption = Glossary.Caption
+      	// If it is an answer, adds the abbreviation
+      	SI Glossary.IsCategory = Faux _ET_ Glossary.Abbreviation <> "" ALORS sNewCaption += " ["+Glossary.Abbreviation+"]"
+      	arbremodifie(TREE_GLOSSARY, sBranchSelection, sNewCaption)<§aad:0§>
+      	
+      	// Defines the parent branch
+      	soit sParent = sBranchSelection
+      	sParent[[ position(sParent, tab, 0, depuisfin) a ]] = ""
+      	
+      	// Sorts the treeview on the parent
+      	ArbreTrie(TREE_GLOSSARY, sParent)
+      	
+      Fin
+      
+      // Display the selection
+      DisplaySelection()
+     type : 458752
+   -
+     name : DisplaySelection
+     procedure_id : 1781159049744265550
+     type_code : 14
+     code : |1-
+      // Summary: Displays the selection details
+      // Syntax:
+      // DisplaySelection ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      
+      Procédure DisplaySelection()
+      
+      // View the entry associated with the selection
+      nID est un entier = ArbreRécupèreIdentifiant(TREE_GLOSSARY, ArbreSelect(TREE_GLOSSARY))
+      
+      // Points to the glossary
+      HLitRecherche(Glossary, GlossaryID, nID)
+      SI HTrouve(Glossary) ALORS
+      	
+      	// Displays the content in the edit control
+      	EDT_VIEW_RESPONSE = Glossary.Content
+      	
+      FIN
+     type : 458752
+   -
+     name : FillTreeView
+     internal_properties : CAAAAAgAAACX7cyKoXNKsFFlPRz7N7mH/U+2CFnEgj9cCHjNf5TkAl/vSFxdzj+OhQ8GAkiUhYK4shpOuXHh97Ca6W9BH51EIa7oFgzQn3AolXhuP/j9S3voCdp0mREp3IdHiFRzZOB7HCH4U1BhallL648PJ49TOYUZ57e+9EvfrfUq8HKL4zvETNZpa8I4Nfp6M97WnbGdu/A8QZYZcfMLimt96BFAD4Qavmc44sSQbV2Ig7tVZJtohA==
+     procedure_id : 1781159049744331086
+     type_code : 14
+     code : |1+
+      // Summary: Fills the treeview for a given category
+      // Syntax:
+      //FillTreeView (<sParentBranch> is string, <nParentCategoryID> is int)
+      //
+      // Parameters:
+      //	sParentBranch (ANSI string): Parent branch
+      //	nParentCategoryID (integer): Parent category
+      // Return value:
+      // 	None
+      //
+      PROCEDURE FillTreeView(LOCAL sParentBranch est une chaine, LOCAL nParentCategoryID est un entier)
+      
+      sCollapsedImage, sExpandedImage sont des chaines
+      
+      // Browses the records for which the requested category is the parent
+      POUR TOUT Glossary AVEC ParentID = nParentCategoryID
+      	
+      	// Defines the branch caption
+      	soit sBranch = sParentBranch +[TAB]+ Glossary.Caption
+      	// If it is an answer, adds the abbreviation
+      	si Glossary.IsCategory = Faux _et_ Glossary.Abbreviation <> "" ALORS sBranch += " ["+Glossary.Abbreviation+"]"
+      	
+      	// Defines the images according to the type of node
+      	si Glossary.IsCategory ALORS
+      		sCollapsedImage = IMG_ClosedDirectory
+      		sExpandedImage = IMG_OpenedDirectory
+      	SINON
+      		sCollapsedImage = IMG_Response
+      		sExpandedImage = IMG_Response
+      	FIn
+      	
+      	// Adds the branch
+      	arbreajoute(TREE_GLOSSARY, sBranch, sCollapsedImage, sExpandedImage, Glossary.GlossaryID)
+      	
+      	// Adds the sub-categories
+      	FillTreeView(sBranch, Glossary.GlossaryID)
+      	
+      FIn
+     type : 458752
+   -
+     name : Find
+     internal_properties : CAAAAAgAAACMdEtsEzRici6d9v7gYvtbAyZM6hQf0BVcNQivhgopbANpze6J9jNmwklfMz7N+Q3Gea6PGIWdNQj0T7CAyXT/PJqxb5G2/B8fN1C/ckdGnEgEz248KP/JFBRjOXuiGoapT5Ngv/uXNbrUM2Jc/Cvlw3Lzr7Pd9iE3S6nzP/c8XUWQOWl4A9GuBUp5PcLa6ZWhbAJB2rgP
+     procedure_id : 1781159049744396622
+     type_code : 14
+     code : |1+
+      // Summary: Starts the search
+      // Syntax:
+      //Find ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //// Automatic procedure:
+      // The procedure is run manually, during a call in the code, with a delay set to 50 hundredths of a second
+      // 
+      
+      PROCEDURE Find()
+      
+      // Clears the previous search results
+      supprimetout(garrResultSearch)
+      
+      // Grays the Next button
+      BTN_F3..etat = grise
+      
+      // Starts the search
+      QRY_FindResponse.pSearch = EDT_Find
+      hexecuterequete(QRY_FindResponse)
+      // If no answer
+      si hnbenr(QRY_FindResponse) = 0 ALORS
+      	// Displays a message
+      	toastaffiche("No answer corresponds to your search", toastcourt, cvmilieu, chcentre)
+      	// Clears the static
+      	STC_QueryInfo = ""
+      	retour
+      FIN
+      
+      // Browses the results to store the treeview branches in order
+      pour TOUT QRY_FindResponse 
+      	// Clears the branch
+      	sBranch est une chaine = ""
+      	
+      	// Finds the branch corresponding to this result
+      	soit sBranchFound est une chaine = ArbreCherche(TREE_GLOSSARY, QRY_FindResponse.GlossaryID)
+      	
+      	// The returned branch contains the caption as well as the identifier of the branch
+      	// Store the set of captions only
+      	pour toute chaine sOneLevel de sBranchFound separee par tab
+      		sBranch += [TAB] + extraitchaine(sOneLevel, 1, esc)
+      	FIN
+      	
+      	// Stores the branch
+      	ajoute(garrResultSearch, sBranch)
+      FIN
+      
+      // Sorts the array of results
+      tableautrie(garrResultSearch, ttcroissant)
+      
+      // If more than one answer is found, enables the button for browsing results
+      si hnbenr(QRY_FindResponse) > 1 alors BTN_F3..Etat = Actif
+      
+      // Starts from first subscript
+      gnSearchSubscript = 0
+      Search_Position()
+     type : 458752
+   -
+     name : Search_Position
+     internal_properties : CAAAAAgAAAAcRzSqyWaH1HlCBFw271lPgSl+wc6C5OV4aHq4gq5WrrvUzsmbL/k+o4u5852oNFIkAsNfWO/It1Dj3jIGl3M9QlY4ltZD4LsLg7GEnu7q/iVHWsKDf23NnS87FJf9PzqVHl1e7D6Aitr4ptrxZt5H08gwhNepzpOKsjAgp08JqwYM
+     procedure_id : 1781159049744462158
+     type_code : 14
+     code : |1+
+      // Summary: Positions the search
+      // Syntax:
+      // Search_Position ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      PROCEDURE Search_Position()
+      
+      // If the array is not filled
+      SI garrResultSearch..Occurrence = 0 ALORS RETOUR
+      
+      // Incremented search subscript
+      gnSearchSubscript++
+      // If the new subscript exceeds the array bounds
+      SI gnSearchSubscript > garrResultSearch..Occurrence ALORS
+      	// Reinitializes the subscript
+      	gnSearchSubscript = 1
+      	// If more than one answer is found, displays an informative toast
+      	SI garrResultSearch..Occurrence <> 1 _ET_ EDT_Find <> "" alors
+      		ToastSupprimeTout()
+      		ToastAffiche("End of Search"+rc+"You have been repositioned on the first search result", toastcourt, cvmilieu, chcentre)
+      	FIN
+      FIN
+      
+      // Displays the search information
+      STC_QueryInfo = chaineconstruit("%1 search result(s) - %2/%1", garrResultSearch..Occurrence, gnSearchSubscript)
+      
+      // Selects the branch
+      ArbreSelectPlus(TREE_GLOSSARY, garrResultSearch[gnSearchSubscript])
+      
+      // Runs the selection process
+      ExécuteTraitement(TREE_GLOSSARY, trtSélection)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Choixreponse
+resources :
+ string_res :
+  identifier : 0x3dc01503031be1f5
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Do you want to add a new response (YES) or do you want to add a node (NO)?
+     index : 0
+   -
+     text :
+      en-GB : "A response without content was selected.\r\nDo you want to enter the content of the response (YES) or do you want to add an item to it (NO)?"
+     index : 1
+   -
+     text :
+      en-GB : Only a response can be deleted.
+     index : 2
+   -
+     text :
+      en-GB : Do you want to delete the %1 response?
+     index : 3
+   -
+     text :
+      en-GB : Use the popup menu (right mouse click) of "My Glossary" to customize and fill your glossary.
+     index : 4
+   -
+     text : {}
+     index : 5
+   -
+     text :
+      en-GB : My Glossary
+     index : 6
+   -
+     text :
+      en-GB : "<Enter the text of your glossary>\r\n<Use the popup menu of the tree structure to add and customize your glossaries>"
+     index : 7
+   -
+     text :
+      en-GB : Do you want to delete the %1 category and all its glossary entries?
+     index : 8
+   -
+     text :
+      en-GB : Do you want to delete the %1 category?
+     index : 9
+   -
+     text :
+      en-GB : WDGLOSSARYID
+     index : 10
+   -
+     text :
+      en-GB : PARENT=
+     index : 11
+   -
+     text :
+      en-GB : Last entry
+     index : 12
+   -
+     text :
+      en-GB : "##%##"
+     index : 13
+   -
+     text :
+      en-GB : Creation
+     index : 14
+   -
+     text :
+      en-GB : You must create a first category that will be used to classify your responses.
+     index : 15
+   -
+     text :
+      en-GB : Modif
+     index : 16
+   -
+     text :
+      en-GB : The modification is not allowed as long as no category and/or response is found.
+     index : 17
+   -
+     text :
+      en-GB : ROOT
+     index : 18
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
